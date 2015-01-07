@@ -51,10 +51,13 @@ Usage
     // possibly in controller action
     // check if image uploaded successfully
     // get path to uploaded image
+    
     $path = "path/to/uploaded/file.ext"; // real path to file on server
     $width = 1050;
     $height = 700;    
+    
     $resized = ImageResizer::resize($path, $width, $height);
+    
     if($resized) {
         // upload to cloud storage
         // get url from cloud
