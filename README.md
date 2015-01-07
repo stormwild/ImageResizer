@@ -65,7 +65,7 @@ Usage
     }
 ```
 
-The function resizes and replaces the uploaded file.
+The function resizes and replaces(updates) the uploaded file to the specified dimensions.
 
 References
 ----------
