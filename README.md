@@ -18,7 +18,7 @@ If using [Composer](https://getcomposer.org/), in your `composer.json` file add:
 ```json
 {
     "require": {
-        "stormwild/image-resizer": "0.0.1"
+        "stormwild/image-resizer": "1.0.0"
     }
 }
 ```
