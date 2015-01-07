@@ -10,7 +10,7 @@
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/stormwild/ImageResizer",
-    "author": [
+    "authors": [
         {
             "name": "Alexander R. Torrijos",
             "homepage": "http://stormwild.github.io/"
