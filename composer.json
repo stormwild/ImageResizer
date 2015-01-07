@@ -1,5 +1,5 @@
 {
-    "name": "stormwild/ImageResizer",
+    "name": "stormwild/image-resizer",
     "description": "PHP class to resize images using GD",
     "keywords": [
         "php",
